@@ -20,7 +20,7 @@ Challenge from rocketseat with a bit of personal style and info.
 ### Links
 
 - [Repository](https://github.com/jAllanOli/social-tree)
-- [WebPage](https://jallanoli.github.io/projeto-pokemon-slider/)
+- [WebPage](https://jallanoli.github.io/social-tree/)
 
 ## My process
 
